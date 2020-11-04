@@ -1,8 +1,8 @@
-# StudentMgmt-in-Python-Tkinter-and-JSON
+## Student Management-in-Python-Tkinter-and-JSON
 
 ### Python Project
 
-# To run this project, you must have installed Python on your PC. After downloading the project, follow the steps below:
+### To run this project, you must have installed Python on your PC. After downloading the project, follow the steps below:
 
 Step1: Extract/Unzip the file
 
